@@ -1,0 +1,2 @@
+rootProject.name = "RecyclerViewFloatFxy"
+include ':app'

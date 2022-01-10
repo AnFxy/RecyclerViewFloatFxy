@@ -1,0 +1,296 @@
+[
+  {
+    "club_id" : 1,
+    "club_name" : "1W",
+    "is_checked" : false,
+    "club_type" : "ウッド"
+  },
+  {
+    "club_id" : 2,
+    "club_name" : "2W",
+    "is_checked" : false,
+    "club_type" : "ウッド"
+  },
+  {
+    "club_id" : 3,
+    "club_name" : "3W",
+    "is_checked" : false,
+    "club_type" : "ウッド"
+  },
+  {
+    "club_id" : 4,
+    "club_name" : "4W",
+    "is_checked" : false,
+    "club_type" : "ウッド"
+  },
+  {
+    "club_id" : 5,
+    "club_name" : "5W",
+    "is_checked" : false,
+    "club_type" : "ウッド"
+  },
+  {
+    "club_id" : 6,
+    "club_name" : "6W",
+    "is_checked" : false,
+    "club_type" : "ウッド"
+  },
+  {
+    "club_id" : 7,
+    "club_name" : "7W",
+    "is_checked" : false,
+    "club_type" : "ウッド"
+  },
+  {
+    "club_id" : 8,
+    "club_name" : "8W",
+    "is_checked" : false,
+    "club_type" : "ウッド"
+  },
+  {
+    "club_id" : 9,
+    "club_name" : "9W",
+    "is_checked" : false,
+    "club_type" : "ウッド"
+  },
+  {
+    "club_id" : 10,
+    "club_name" : "10W",
+    "is_checked" : false,
+    "club_type" : "ウッド"
+  },
+  {
+    "club_id" : 11,
+    "club_name" : "11W",
+    "is_checked" : false,
+    "club_type" : "ウッド"
+  },
+  {
+    "club_id" : 12,
+    "club_name" : "12W",
+    "is_checked" : false,
+    "club_type" : "ウッド"
+  },
+  {
+    "club_id" : 13,
+    "club_name" : "13W",
+    "is_checked" : false,
+    "club_type" : "ウッド"
+  },
+  {
+    "club_id" : 14,
+    "club_name" : "14W",
+    "is_checked" : false,
+    "club_type" : "ウッド"
+  },
+  {
+    "club_id" : 15,
+    "club_name" : "15W",
+    "is_checked" : false,
+    "club_type" : "ウッド"
+  },
+  {
+    "club_id" : 16,
+    "club_name" : "U1",
+    "is_checked" : false,
+    "club_type" : "ユーティリティ"
+  },
+  {
+    "club_id" : 17,
+    "club_name" : "U2",
+    "is_checked" : false,
+    "club_type" : "ユーティリティ"
+  },
+  {
+    "club_id" : 18,
+    "club_name" : "U3",
+    "is_checked" : false,
+    "club_type" : "ユーティリティ"
+  },
+  {
+    "club_id" : 19,
+    "club_name" : "U4",
+    "is_checked" : false,
+    "club_type" : "ユーティリティ"
+  },
+  {
+    "club_id" : 20,
+    "club_name" : "U5",
+    "is_checked" : false,
+    "club_type" : "ユーティリティ"
+  },
+  {
+    "club_id" : 21,
+    "club_name" : "U6",
+    "is_checked" : false,
+    "club_type" : "ユーティリティ"
+  },
+  {
+    "club_id" : 22,
+    "club_name" : "U7",
+    "is_checked" : false,
+    "club_type" : "ユーティリティ"
+  },
+  {
+    "club_id" : 23,
+    "club_name" : "U8",
+    "is_checked" : false,
+    "club_type" : "ユーティリティ"
+  },
+  {
+    "club_id" : 24,
+    "club_name" : "U9",
+    "is_checked" : false,
+    "club_type" : "ユーティリティ"
+  },
+  {
+    "club_id" : 25,
+    "club_name" : "1i",
+    "is_checked" : false,
+    "club_type" : "アイアン"
+  },
+  {
+    "club_id" : 26,
+    "club_name" : "2i",
+    "is_checked" : false,
+    "club_type" : "アイアン"
+  },
+  {
+    "club_id" : 27,
+    "club_name" : "3i",
+    "is_checked" : false,
+    "club_type" : "アイアン"
+  },
+  {
+    "club_id" : 28,
+    "club_name" : "4i",
+    "is_checked" : false,
+    "club_type" : "アイアン"
+  },
+  {
+    "club_id" : 29,
+    "club_name" : "5i",
+    "is_checked" : false,
+    "club_type" : "アイアン"
+  },
+  {
+    "club_id" : 30,
+    "club_name" : "6i",
+    "is_checked" : false,
+    "club_type" : "アイアン"
+  },
+  {
+    "club_id" : 31,
+    "club_name" : "7i",
+    "is_checked" : false,
+    "club_type" : "アイアン"
+  },
+  {
+    "club_id" : 32,
+    "club_name" : "8i",
+    "is_checked" : false,
+    "club_type" : "アイアン"
+  },
+  {
+    "club_id" : 33,
+    "club_name" : "9i",
+    "is_checked" : false,
+    "club_type" : "アイアン"
+  },
+  {
+    "club_id" : 34,
+    "club_name" : "10i",
+    "is_checked" : false,
+    "club_type" : "アイアン"
+  },
+  {
+    "club_id" : 35,
+    "club_name" : "PW",
+    "is_checked" : false,
+    "club_type" : "ウェッジ"
+  },
+  {
+    "club_id" : 36,
+    "club_name" : "AW",
+    "is_checked" : false,
+    "club_type" : "ウェッジ"
+  },
+  {
+    "club_id" : 37,
+    "club_name" : "SW",
+    "is_checked" : false,
+    "club_type" : "ウェッジ"
+  },
+  {
+    "club_id" : 38,
+    "club_name" : "LW",
+    "is_checked" : false,
+    "club_type" : "ウェッジ"
+  },
+  {
+    "club_id" : 39,
+    "club_name" : "46°",
+    "is_checked" : false,
+    "club_type" : "ウェッジ"
+  },
+  {
+    "club_id" : 40,
+    "club_name" : "48°",
+    "is_checked" : false,
+    "club_type" : "ウェッジ"
+  },
+  {
+    "club_id" : 41,
+    "club_name" : "50°",
+    "is_checked" : false,
+    "club_type" : "ウェッジ"
+  },
+  {
+    "club_id" : 42,
+    "club_name" : "52°",
+    "is_checked" : false,
+    "club_type" : "ウェッジ"
+  },
+  {
+    "club_id" : 43,
+    "club_name" : "54°",
+    "is_checked" : false,
+    "club_type" : "ウェッジ"
+  },
+  {
+    "club_id" : 44,
+    "club_name" : "56°",
+    "is_checked" : false,
+    "club_type" : "ウェッジ"
+  },
+  {
+    "club_id" : 45,
+    "club_name" : "58°",
+    "is_checked" : false,
+    "club_type" : "ウェッジ"
+  },
+  {
+    "club_id" : 46,
+    "club_name" : "60°",
+    "is_checked" : false,
+    "club_type" : "ウェッジ"
+  },
+  {
+    "club_id" : 47,
+    "club_name" : "62°",
+    "is_checked" : false,
+    "club_type" : "ウェッジ"
+  },
+  {
+    "club_id" : 48,
+    "club_name" : "64°",
+    "is_checked" : false,
+    "club_type" : "ウェッジ"
+  },
+  {
+    "club_id" : 49,
+    "club_name" : "PT",
+    "is_checked" : false,
+    "club_type" : "パター"
+  }
+]
